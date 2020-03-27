@@ -1,0 +1,17 @@
+***
+<class 'networkx.classes.graph.Graph'>
+***
+in __init__
+=== explored ucs === ['Gatech', 'Alabama', 'Vandy', 'Duke', 'Wash', 'Dayton', 'Tulane', 'Illinois']
+Path using ucs =  ['Gatech', 'Vandy', 'Wash', 'OSU']
+NOT FOUND
+NOT FOUND
+explored a-star =  ['Gatech', 'Vandy', 'Wash']
+Path using a-star =  ['Gatech', 'Vandy', 'Wash', 'OSU']
+***
+<class 'networkx.classes.graph.Graph'>
+***
+in __init__
+=== explored ucs === ['Stanford', 'Boise', 'UNLV', 'BYU', 'Wyoming', 'UCLA', 'Washington', 'Oregon', 'Nebraska', 'Montana', 'Iowa']
+path =  ['Stanford', 'BYU', 'USAF']
+cost =  1186
